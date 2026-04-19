@@ -1,4 +1,4 @@
-# Projects-
+# Machine Learning Projects
 1. Wine Quality Analysis using EDA
 2. Electricity Consumption
 3. Bank Loan Prediction
